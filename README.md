@@ -1,17 +1,33 @@
-# pocket_guard1
+# 💰 PocketGuard
 
-A new Flutter project.
+### Smart Personal Finance Management App
 
-## Getting Started
+PocketGuard is a mobile finance tracking application designed to help users manage their money, track expenses, monitor savings goals, and understand their spending habits.
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ User Login & Registration  
+✅ Personal Finance Dashboard  
+✅ Balance Tracking  
+✅ Income & Expense Management  
+✅ Budget Monitoring  
+✅ Savings Goal Tracking  
+✅ Transaction History  
+✅ Clean and Modern Mobile UI  
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+- SQLite Database
+- Android Studio
+- VS Code
+
+
+
+## 📂 Project Structure
